@@ -41,7 +41,7 @@ The folder stucture is as follows:
 ## Authors
 
 * [**Chen Guanyi**](https://a-quei.github.io)
-* [**Liu Yuqi**]
+* **Liu Yuqi**
 
 ## Publications
 
@@ -50,7 +50,6 @@ If you use the data, please cite the following paper:
 
 ```
 Todo.
-}
 ```
 
 ## License
