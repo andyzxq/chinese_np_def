@@ -1,6 +1,6 @@
 # Computational Modelling of Plurality and Definiteness in Chinese Noun Phrases
 
-## The work are presented in our LERC-Coling 2024 paper [arxiv](http://arxiv.org/abs/2403.04376).
+## The work are presented in our LERC-Coling 2024 paper [[arxiv]](http://arxiv.org/abs/2403.04376).
 
 Theoretical linguists have suggested that some languages (e.g., Chinese and Japanese) are “cooler” than other languages based on the observation that the intended meaning of phrases in these languages depends more on their contexts. As a result, many expressions in these languages are shortened, and their meaning is inferred from the context. In this paper, we focus on the omission of the plurality and definiteness markers in Chinese noun phrases (NPs) to investigate the predictability of their intended meaning given the contexts. To this end, we built a corpus of Chinese NPs, each of which is accompanied by its corresponding context, and by labels indicating its singularity/plurality and definiteness/indefiniteness. We carried out corpus assessments and analyses. The results suggest that Chinese speakers indeed drop plurality and definiteness markers very frequently. Building on the corpus, we train a bank of computational models using both classic machine learning models and state-of-the-art pre-trained language models to predict the plurality and definiteness of each NP. We report on the performance of these models and analyse their behaviours.
 
